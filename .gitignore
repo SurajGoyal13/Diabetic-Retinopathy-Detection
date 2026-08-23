@@ -1,0 +1,7 @@
+gaussian_filtered_images/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.DS_Store
